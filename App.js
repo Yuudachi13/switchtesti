@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   fields: {
-    flexDirection: 'row',
+   flexDirection: 'row',
     justifyContent: 'space-between',
     padding: 30,
   }
